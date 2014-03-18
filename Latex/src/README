@@ -1,5 +1,6 @@
 assafm04
 
+
 Files included:
     1. MathTerm.java
     2. BinaryMathTerm.java
@@ -10,7 +11,9 @@ Files included:
     7. SumMathTerm.java
     8. README
 
+
 File description:
+
 
 1. MathTerm - a class which represents the base class for all other sub classes
 			   it also evaluates the latex representation in the following 
@@ -33,14 +36,8 @@ File description:
 				- Term above the sigma sign. 
 				- Term being summed.
        
-Design: 
-
-
-
+Design:
 Implementation issues:
-
-
-
 Answers to questions:
 
 1. say i wish to add new term :an integral term - i would probably derive it
